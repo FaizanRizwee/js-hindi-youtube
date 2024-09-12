@@ -16,3 +16,15 @@ let isLoggedIn = false
 // undefined => value not assinged till now only variable defined
 
 // symbol => for finding uniquness
+                                     
+// Object
+
+
+console.log(typeof "faizan");
+console.log(typeof null); // An object
+console.log(typeof undefined); // Undefined
+
+
+
+
+
